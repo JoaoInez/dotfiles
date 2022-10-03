@@ -1,0 +1,23 @@
+{
+  "window.commandCenter": true,
+  "window.titleBarStyle": "custom",
+  "workbench.colorTheme": "One Dark Pro",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll": true
+  },
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": true,
+  "[javascript][javascriptreact][typescript][typescriptreact][css][scss][json][jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.renderWhitespace": "boundary",
+  "zenMode.hideTabs": false,
+  "eslint.alwaysShowStatus": true,
+}
+
